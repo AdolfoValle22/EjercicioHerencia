@@ -1,4 +1,4 @@
-public class Masajista extends Persona {
+    public class Masajista extends Persona {
     private String titulacion;
     private Integer aniosExperiencia;
 
